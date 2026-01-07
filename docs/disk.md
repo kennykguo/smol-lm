@@ -1,0 +1,3 @@
+  - Overall disk: df -h
+  - Folder size: du -sh data/processed
+  - Interactive (if installed): ncdu .
