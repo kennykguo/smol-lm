@@ -1,1 +1,6 @@
-nanoGPT
+.venv/
+.uv-cache/
+.ipython/
+.jupyter/
+.jupyter_runtime/
+data/
